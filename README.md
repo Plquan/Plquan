@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="images/cat.gif" alt="Mèo nhảy siêu dễ thương" />
+  <img src="images/cat.gif" alt="Cái lùm mía" />
 </p>
