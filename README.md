@@ -1,1 +1,3 @@
-![cc](https://i0.com/wp-content/uploads/2023/09/cat-jump.gif)
+<p align="center">
+  <img src="images/cat.gif" alt="Mèo nhảy siêu dễ thương" />
+</p>
